@@ -1,3 +1,3 @@
-<img src = "loginPage.png">
-<img src = "homePage.png">
-<img src = "signupPage.png">
+<img src = "login.png">
+<img src = "home.png">
+<img src = "signup.png">
